@@ -1,4 +1,6 @@
-# Web + API — Projeto (simplificado)
+# Desafio Full-Stack com IA | [Rocketseat](https://app.rocketseat.com.br/)
+
+## Web + API
 
 Repositório com 2 apps -> `api` (backend em Node/TypeScript + Fastify) e `web` (frontend em React + Vite).
 
